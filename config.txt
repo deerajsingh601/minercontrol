@@ -1,6 +1,6 @@
 .dst-wd 1
 -r 1
 -epool eth-asia1.nanopool.org:9999
--ewal 0xF8fa8F227c18E56f221c8CBDACBF3cd185200015.dst/deerajsingh601@gmail.com
+-ewal 0xF8fa8F227c18E56f221c8CBDACBF3cd185200015/deerajsingh601@gmail.com
 -epsw x
 -mode 1
